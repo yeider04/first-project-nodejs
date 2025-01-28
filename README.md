@@ -41,6 +41,3 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 ## 📝 Notas
 El servidor está configurado para escuchar en el puerto 3000 localmente.
 Puedes personalizar las rutas en el archivo routes.
-
-## 📄 Licencia
-Este proyecto está bajo la licencia [MIT](LICENSE). Consulta el archivo para más detalles.
